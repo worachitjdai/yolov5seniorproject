@@ -1,7 +1,7 @@
 
 path: ../drive/Mydrive/Senior_project/Labeling  # dataset root dir
-train: ../drive/Mydrive/Senior_project/Labeling/train/images/  # train images (relative to 'path') 128 images
-val: ../drive/Mydrive/Senior_project/Labeling/val/images/  # val images (relative to 'path') 128 images
+train: /content/drive/MyDrive/Senior_Project/Labeling/train/images  # train images (relative to 'path') 128 images
+val: /content/drive/MyDrive/Senior_Project/Labeling/val/images  # val images (relative to 'path') 128 images
 test:  # test images (optional)
 
 # Classes
